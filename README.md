@@ -22,6 +22,7 @@ Welcome to my cybersecurity portfolio! I am a cybersecurity student at the Unive
 | # | Case | Type | Report |
 |---|---|---|---|
 | 004 | Suspicious Administrator Login Investigation | **Simulated** log correlation and incident triage | [Read SOC case study](reports/004-soc-login-investigation.md) |
+| 005 | PowerShell 2.0 Downgrade Detection | **Training EVTX** analysis with Hayabusa | [Read SOC investigation](reports/005-powershell-downgrade-evtx-investigation.md) |
 
 This case uses fictional training evidence. It is not a real-world incident or live investigation.
 
