@@ -17,6 +17,14 @@ Welcome to my cybersecurity portfolio! I am a cybersecurity student at the Unive
 | 002 | User role controlled by request parameter | Cookie-based privilege escalation | [Read report](reports/002-cookie-based-privilege-escalation.md) |
 | 003 | User ID controlled by request parameter | IDOR / API key exposure | [Read report](reports/003-idor-api-key-exposure.md) |
 
+## SOC / Blue Team Case Studies
+
+| # | Case | Type | Report |
+|---|---|---|---|
+| 004 | Suspicious Administrator Login Investigation | **Simulated** log correlation and incident triage | [Read SOC case study](reports/004-soc-login-investigation.md) |
+
+This case uses fictional training evidence. It is not a real-world incident or live investigation.
+
 ## Additional Training Topics
 
 - [SQL Injection labs](sql-injection/README.md) — completed practice; individual technical writeups pending.
